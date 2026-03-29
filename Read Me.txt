@@ -1,0 +1,40 @@
+https://github.com/awslabs/open-data-docs/tree/main/docs/noaa/noaa-ghcn
+
+NOAA Global Historical Climatology Network Daily (GHCN-D)
+
+
+
+Temperature (°C): -15
+Snowfall rate (cm/hr): 2.0
+Snow depth (cm): 120
+Elevation (m): 500
+Latitude: 64.84
+Longitude: -147.72
+Wind speed (m/s): 15
+Humidity (%): 70
+Pressure (hPa): 1005
+
+
+For yes
+
+
+
+Temperature (°C): 35
+Snowfall rate (cm/hr): 0
+Snow depth (cm): 0
+Elevation (m): 330
+Latitude: 33.45
+Longitude: -112.07
+Wind speed (m/s): 3
+Humidity (%): 20
+Pressure (hPa): 1010
+
+
+For No 
+
+
+
+
+Remind to install both node and react modules and then run 
+node server.js in server folder and
+npm start in frontend folder
